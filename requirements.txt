@@ -1,0 +1,26 @@
+# Required Dependencies
+
+## IronPython 2.7
+- **Version**: IronPython 2.7.12 or later
+- **Download**: https://github.com/IronLanguages/ironpython2/releases
+- **Purpose**: .NET Framework integration for Agilent SDK
+
+## .NET Assemblies (Included)
+- Agilent.AtomicSpectroscopy.SDK.Protocol.dll
+- TransportProtocol.dll
+- XdrSocketClient.dll
+- xdr.dll
+
+## Python Standard Library (Included in Lib/)
+- All required standard library modules included
+- No additional pip installations needed
+
+## System Requirements
+- Windows OS (required for Agilent SDK)
+- .NET Framework 4.5 or later
+- MP Expert software running on target system
+
+## Optional Development Tools
+- Visual Studio Code (recommended IDE)
+- Git for version control
+- Windows PowerShell for batch operations
